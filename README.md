@@ -3,7 +3,7 @@
 
 <h2> Developer Installation </h2>
 
-**Note that all below commands should be run within the project root directory (/path/to/coding-challenge)**
+**Note that all the below commands should be run within the project root directory (/path/to/coding-challenge)**
 
 Firstly, install all the required primary and testing dependencies with the following commands:
 
