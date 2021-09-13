@@ -5,7 +5,7 @@
 
 **Note that all below commands should be run within the project root directory (/path/to/coding-challenge)**
 
-Firstly, install all the required primary and testing dependencies with the following commands from the root directory:
+Firstly, install all the required primary and testing dependencies with the following commands:
 
 - <code> pip install -r requirements.txt </code>
 - <code> pip install -r requirements_test.txt </code>
