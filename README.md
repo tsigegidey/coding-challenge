@@ -15,7 +15,6 @@ You should now be able to use functionality offered by the **shapes_module** Pyt
 
 <code>
 from shapes_library.shapes_package.shapes_module import Circle
-from shapes_library.shapes_package.shapes_module import Rectangle
 </code>
 
 <h3> Testing </h3>
