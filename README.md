@@ -12,13 +12,10 @@ Firstly, install all the required primary and testing dependencies with the foll
 **shapes_library** can be installed into your local Python package registry with the following command: <code> pip install -e . </code>
 
 You should now be able to use functionality offered by the **shapes_module** Python module by importing shape APIs directly:
+
 <code>
-
 from shapes_library.shapes_package.shapes_module import Circle
-
 from shapes_library.shapes_package.shapes_module import Rectangle
-
-...
 </code>
 
 <h3> Testing </h3>
