@@ -30,3 +30,4 @@ class RectangleTests(TestCase):
         mock_rectangle = Rectangle(height=mock_height, width=mock_width)
         self.assertEqual(mock_rectangle.area(), expected_area)
 
+
