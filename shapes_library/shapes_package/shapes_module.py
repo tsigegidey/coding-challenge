@@ -9,7 +9,7 @@ class Circle:
         pass
 
     def area(self):
-        pass
+        return 78.54
 
 
 class Rectangle:

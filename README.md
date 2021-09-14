@@ -23,8 +23,9 @@ from shapes_library.shapes_package.shapes_module import Circle
 
 <p>
 <h2> Testing </h2>
-Developers can test the library source with the following commands assuming the aforementioned dependencies have been installed:
 
-- With coverage: <code> pytest --cov=shapes_library [tests/] </code>
-- Without coverage: <code> pytest [tests/]</code>
+Developers can test the library source using *unittest* with the following commands, assuming the aforementioned dependencies have been installed:
+
+- <code>python -m unittest [-v]</code>
+- To generate a coverage report: <code>coverage report -m</code>
 </p>
