@@ -28,6 +28,6 @@ Developers can test the library source using *unittest* with the following comma
 
 - <code>python -m unittest [-v]</code>
 - To generate a coverage report as well as run the unit tests: 
-    1. <code>coverage run -m unittest</code>
-    2. <code>coverage report
+    - <code>coverage run -m unitttest</code>
+    - <code>coverage report</code>
 </p>
